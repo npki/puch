@@ -1,0 +1,9 @@
+title: Default Page
+
+tabs:
+  content:
+    fields:
+      text:
+        type: writer
+      
+  seotab: seo

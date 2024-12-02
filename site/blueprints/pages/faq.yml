@@ -1,0 +1,26 @@
+title: FAQ
+
+tabs:
+  content:
+    label: Content
+    icon: text
+    columns:
+      - width: 3/3
+        sections: 
+          labels:
+            type: fields
+            fields:            
+              introText:
+                label: Intro Text 
+                type: writer              
+              faqs:
+                type: structure
+                label: FAQs                
+                fields:
+                  title:
+                    type: text
+                  question:
+                    type: writer
+                  answer:
+                    type: writer
+    seotab: seo

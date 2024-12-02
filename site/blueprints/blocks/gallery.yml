@@ -1,0 +1,13 @@
+name: Image Slider
+icon: images
+preview: gallery
+fields:
+  images:
+    label: field.blocks.gallery.images.label
+    type: files
+    query: model.images
+    max: 3
+    layout: cards
+    size: tiny
+    empty: field.blocks.gallery.images.empty
+    uploads: false

@@ -1,0 +1,62 @@
+Title: FAQ
+
+----
+
+Introtext: <p>Hier findet ihr die wichtigsten Informationen zum Festival. </p><p>Sollten noch Fragen offen sein, schreib uns gerne eine <a href="mailto:pw@rote-sonne.com">E-Mail</a>.</p>
+
+----
+
+Faqs:
+
+- 
+  title: Anfahrt
+  question: '<p>Wie plane ich die  <em>Anfahrt</em>  zum Festival?</p>'
+  answer: '<p>Wie jedes Jahr bieten wir wieder unseren Shuttle-Bus-Service vom Bahnhof Petershausen (Regionalverkehr + S2) Richtung Festivalgelände an. In regelmässigen Abständen fahren sie vom Parkplatz am alten Bahnhofsgebäude ab.</p><p>Es ist eine sehr gute Idee, den Reginalzug zu nehmen (nur ca 20 Minuten von München) und mit dem Fahrrad zu kommen, es sind nur 7 km von Petershausen ….Die letzten Züge Richtung München gehen um 0:50 und 01:52 zurück, der erste wieder um 5:08.<br><br>Per Auto erreicht man das Puch Open Air über die A9 München-Nürnberg. An der Ausfahrt Allershausen hält man sich links um Richtung Petershausen zu kommen. Von München aus ist Jetzendorf auch über Dachau und Indersdorf auf der Landstrasse zu erreichen. Die Fahrzeit mit dem Auto beträgt knappe 45 Minuten. Bei Verwendung eines Routenplaners/Navis sollte als Zielort “Lueg 1 (Jetzendorf)” gewählt werden. Falls Ihr noch einen Sitzplatz im Auto sucht oder anbieten könnt, dann bildet Allianzen, z.B. via unserer Facebook Seite. Außerdem hat man auf dem Puch Open Air irgendwie jeden schon mal gesehen und es findet sich immer eine Mitfahrgelegenheit. Kinder sind auch immer herzlich willkommen.<br><br>Das Parken und Übernachten im Auto, Camper oder im Zelt auf Feld und am angrenzenden Wald ist kostenlos. Für’s leibliche Wohl wird mit Ess- und Trink-Ständen gesorgt, Vegan, Vegi, Bio-Fleisch, Eis, frisches Bier, Bio-Weine und vieles Anderes wird gereicht. Und morgens gibts einen Stand mit Kaffee und Tee …</p>'
+- 
+  title: Barrierefreiheit
+  question: '<p>Ist das Gelände <em>barrierefrei</em>?</p>'
+  answer: '<p>Für Menschen, die körperlich oder geistig eingeschränkt sind, sowie deren Begleitperson(en), beträgt der Eintrittspreis 25 € (ausschliesslich) an der Tages-/Abendkasse. Wir weisen darauf hin, dass das Open Air Gelände (leider) nicht barrierefrei ist.</p>'
+- 
+  title: Awareness
+  question: '<p>Gibt es einen <em>Code of Conduct</em>?</p>'
+  answer: '<p>Das Puch Open Air ist ein Ort, an dem gelebte Solidarität an erster Stelle steht und alle eine gute Zeit verbringen können. Wir dulden keine Form von Rassismus, Sexismus, Antisemitismus oder jede andere Form von Diskriminierung oder Belästigung. Gemeinsam schaffen wir einen Ort, in dem jede:r sich akzeptiert und respektiert fühlen kann –  egal welche Geschlechts-Identität, Hautfarbe, Religion, ethnische Zugehörigkeit oder Fähigkeiten.</p><p>Mit Kauf eines Tickets und Betreten des Festival-Geländes stimmst du diesem Code of Conduct zu. Jeder Verstoß gegen den Code of Conduct wird geahndet und führt ggf. zum Ausschluss vom Festival. Der Ticketpreis wird in diesem Fall nicht erstattet. Wir behalten uns die Aussprache eines Hausverbotes vor.</p><p>Solltet Ihr in irgendeiner Form belästigt werden, oder Ihr beobachtet eine solche Situation, bitte wendet Euch umgehend an unser Personal an den Bars, der Bühne, am Einlass und an den Park-/Campingplätzen.</p>'
+- 
+  title: Essen
+  question: '<p>Gibt es was zu <em>essen</em>?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Camping
+  question: '<p>Wo kann man <em>Campen</em>?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Trinken
+  question: '<p>Kann man selbst etwas zu <em>trinken</em> mitbringen?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Kinder
+  question: '<p>Ist das Festival <em>kinder</em>freundlich</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Shuttle
+  question: '<p>Wie komm ich zum Festival Gelände, mit dem <em>Shuttle</em>?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Hunde
+  question: '<p>Kann ich meinen <em>Hund</em> mitbringen?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Rückerstattung
+  question: '<p>Kann man Tickets <em>zurückgeben</em>?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Hörschutz
+  question: '<p>Empfiehlt sich ein <em>Hörschutz</em>?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+- 
+  title: Fundsachen
+  question: '<p>Ich habe etwas <em>verloren</em>, wohin kann ich mich wenden?</p>'
+  answer: '<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>'
+
+----
+
+Uuid: nhZjVp4fMt12aMrQ

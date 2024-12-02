@@ -1,0 +1,90 @@
+title: Home
+
+tabs:
+  content:
+    label: Content
+    icon: text
+    columns:
+      - width: 2/3
+        sections: 
+          labels:
+            type: fields
+            fields:
+              inhalte:
+                label: Inhalte
+                type: headline
+                numbered: false
+              announcementTextHeadline:
+                label: Announcement Text Headline
+                type: text
+              announcementText:
+                label: Announcement Text
+                type: writer
+                marks: false
+              poster:
+                label: Poster
+                type: files
+                uploads: false
+                layout: cards 
+                max: 1
+              slides:
+                type: structure
+                label: Slider                
+                fields:
+                  image:
+                    type: files
+                    uploads: false
+              faqTextHeadline:
+                label: FAQ Teaser Headline
+                type: text
+              faqText:
+                label: FAQ Teaser Text
+                type: writer
+                marks: false
+              posterslider:
+                type: structure
+                label: Poster Slider                
+                fields:
+                  year:
+                    type: number
+                    label: Year
+                  image:
+                    type: files
+                    layout: cards
+                    uploads: false
+              posterTextHeadline:
+                label: Poster Text Headline
+                type: text
+              posterText:
+                label: Poster Text
+                type: writer
+              
+      - width: 1/3
+          sections: 
+            meta:
+              type: fields
+              fields:
+                mediathek:
+                  label: Mediathek
+                  type: headline
+                  numbered: false
+                images:
+                  type: files
+                  template: image
+                  info: "{{ file.dimensions }}"
+                  image:
+                    ratio: 5/4
+                    cover: true
+                  size: small
+                posterArchive:
+                  type: files
+                  label: Poster Archiv
+                  template: image
+                  info: "{{ file.dimensions }}"
+                  image:
+                    ratio: 5/4
+                    cover: true
+                  size: small
+
+
+    seotab: seo

@@ -1,0 +1,8 @@
+name: Teaser
+icon: text
+wysiwyg: true
+preview: text
+fields:  
+  text:
+    type: writer
+    placeholder: Teasertext

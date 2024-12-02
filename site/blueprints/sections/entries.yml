@@ -1,0 +1,8 @@
+type: pages
+headline: Projects
+parent: site.find("home")
+template: entry
+image:
+  query: page.cover.toFile
+  ratio: 3/2
+  cover: true

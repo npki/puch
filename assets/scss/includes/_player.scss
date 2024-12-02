@@ -1,0 +1,175 @@
+.speaker {display: flex;flex-flow: row wrap;
+  .player {margin-left: 6px;flex: 0 0 calc(100% - 213px);}
+  .ui {position: relative;z-index: 1;display: flex;flex-flow:row wrap;padding: 15px;
+      .btns {flex: 0 0 80px;
+          .play-btn {width: 80px;height: 80px;background: var(--poster-color) url(../media/play.svg) no-repeat 28px center/30px;border-radius: 50%;cursor: pointer;
+              &.pause {background: var(--poster-color) url(../media/pause.svg) no-repeat 25px center/30px;}
+              &:hover {
+                    
+                    
+                    background-color: var(--poster-color);
+                    background-color: hsl(from var(--poster-color) h s calc(l + 5));
+                }
+              &:active {box-shadow:inset 0px 0px 4px rgba(0, 0, 0, .3);}
+          }
+          .skip {margin-top: 8px;display: flex;flex-flow:row nowrap;
+              div {margin: 0 7px;}
+          }
+          .skip-right {                
+              margin: 0;
+              cursor: pointer;
+              display: flex;flex-flow:row nowrap;
+              &:hover {
+                  div {
+                      border-color: transparent transparent transparent  hsl(from var(--poster-color) h s calc(l + 5));
+                  }
+              }
+              div {
+                  margin: 0;                    
+                  width: 0;
+                  height: 0;
+                  border-width: 8px 0 8px 13.9px;
+                  border-color: transparent transparent transparent var(--poster-color);
+                  border-style: solid;
+              }            
+          }
+          .skip-left {                
+              margin: 0;
+              cursor: pointer;
+              display: flex;flex-flow:row nowrap;
+              &:hover {
+                  div {
+                      border-color: transparent  hsl(from var(--poster-color) h s calc(l + 5)) transparent transparent;
+                  }
+              }
+              div {
+                  margin: 0;
+                  width: 0;
+                  height: 0;
+                  border-width: 8px 13.9px 8px 0;
+                  border-color: transparent var(--poster-color) transparent transparent;
+                  border-style: solid;
+              }            
+          }
+      }
+      .track-info {font-size: var(--font-size-s);text-transform: uppercase;margin-left: 15px;
+          flex: 0 0 calc(100% - 100px);position: relative;overflow: hidden;
+          .title {line-height: .9em;position: relative;}          
+          .artist {line-height: .9em;}
+
+          .scrollable {
+            position: relative;overflow: hidden;
+            div {text-overflow: ellipsis;white-space: nowrap;transition: transform 0.5s ease;
+              &.cut-off {overflow: hidden;}
+            }
+          }
+        
+          .progress-bar {background: var(--color-2);padding: 6px;border-radius: 25px;width: calc(100% - 12px);margin-top: 12px;cursor: pointer;
+              .progress {height: 3px;background: var(--poster-color);border-radius: 10px;width: 0;}
+          }
+      }
+      .track {display: none;
+          audio {display: none;}
+          &.active {display: block;}
+      }
+      
+  }
+  .box {width: 175px;height: 175px;
+      &:hover {
+          svg {
+              .circle {fill: var(--poster-color);}
+          }
+      }
+      &.animate {
+          .body {height: 100%;}
+      }
+      svg {position: absolute;left: 50%;top: 50%;z-index: 1;width: 165px;height: 165px;margin-top: -82.5px;margin-left: -82.5px;
+          .circle {
+              transition: all .2s ease-in;fill: var(--color-2);
+              &:nth-of-type(4) {transition-delay: .2s;}
+              &:nth-of-type(5) {transition-delay: .2s;}
+              &:nth-of-type(6) {transition-delay: .2s;}
+              &:nth-of-type(7) {transition-delay: .2s;}
+              &:nth-of-type(8) {transition-delay: .2s;}
+              &:nth-of-type(9) {transition-delay: .2s;}
+              &:nth-of-type(10) {transition-delay: .2s;}
+              &:nth-of-type(11) {transition-delay: .2s;}
+              &:nth-of-type(12) {transition-delay: .2s;}
+              &:nth-of-type(13) {transition-delay: .2s;}
+              &:nth-of-type(14) {transition-delay: .2s;}
+              &:nth-of-type(15) {transition-delay: .2s;}
+              &:nth-of-type(16) {transition-delay: .2s;}
+              &:nth-of-type(17) {transition-delay: .2s;}
+              &:nth-of-type(18) {transition-delay: .2s;}
+              &:nth-of-type(19) {transition-delay: .2s;}
+              &:nth-of-type(20) {transition-delay: .2s;}
+              &:nth-of-type(21) {transition-delay: .2s;}
+
+              // 3rd circle
+              &:nth-of-type(3) {transition-delay: .15s;}
+              &:nth-of-type(22) {transition-delay: .15s;}
+              &:nth-of-type(23) {transition-delay: .15s;}
+              &:nth-of-type(24) {transition-delay: .15s;}
+              &:nth-of-type(25) {transition-delay: .15s;}
+              &:nth-of-type(26) {transition-delay: .15s;}
+              &:nth-of-type(27) {transition-delay: .15s;}
+              &:nth-of-type(28) {transition-delay: .15s;}
+              &:nth-of-type(29) {transition-delay: .15s;}
+              &:nth-of-type(30) {transition-delay: .15s;}
+              &:nth-of-type(31) {transition-delay: .15s;}
+              &:nth-of-type(32) {transition-delay: .15s;}
+              &:nth-of-type(33) {transition-delay: .15s;}
+              &:nth-of-type(34) {transition-delay: .15s;}
+              &:nth-of-type(35) {transition-delay: .15s;}
+              &:nth-of-type(36) {transition-delay: .15s;}
+              &:nth-of-type(37) {transition-delay: .15s;}
+              &:nth-of-type(38) {transition-delay: .15s;}
+              
+              // 2nd circle
+              &:nth-of-type(2) {transition-delay: .1s;}
+              &:nth-of-type(39) {transition-delay: .1s;}
+              &:nth-of-type(40) {transition-delay: .1s;}
+              &:nth-of-type(41) {transition-delay: .1s;}
+              &:nth-of-type(42) {transition-delay: .1s;}
+              &:nth-of-type(43) {transition-delay: .1s;}
+              &:nth-of-type(44) {transition-delay: .1s;}
+              &:nth-of-type(45) {transition-delay: .1s;}
+              &:nth-of-type(46) {transition-delay: .1s;}
+              &:nth-of-type(47) {transition-delay: .1s;}
+              &:nth-of-type(48) {transition-delay: .1s;}
+              &:nth-of-type(49) {transition-delay: .1s;}
+              &:nth-of-type(50) {transition-delay: .1s;}
+              &:nth-of-type(51) {transition-delay: .1s;}
+              &:nth-of-type(52) {transition-delay: .1s;}
+              &:nth-of-type(53) {transition-delay: .1s;}
+              &:nth-of-type(54) {transition-delay: .1s;}
+              &:nth-of-type(55) {transition-delay: .1s;}
+
+              // // first circle
+              // &:nth-of-type(1) {fill: var(--poster-color);}
+              // &:nth-of-type(56) {fill: var(--poster-color);}
+              // &:nth-of-type(57) {fill: var(--poster-color);}
+              // &:nth-of-type(58) {fill: var(--poster-color);}
+              // &:nth-of-type(59) {fill: var(--poster-color);}
+              // &:nth-of-type(60) {fill: var(--poster-color);}
+              // &:nth-of-type(61) {fill: var(--poster-color);}
+              // &:nth-of-type(62) {fill: var(--poster-color);}
+              // &:nth-of-type(63) {fill: var(--poster-color);}
+              // &:nth-of-type(64) {fill: var(--poster-color);}
+              // &:nth-of-type(65) {fill: var(--poster-color);}
+              // &:nth-of-type(66) {fill: var(--poster-color);}
+              // &:nth-of-type(67) {fill: var(--poster-color);}
+              // &:nth-of-type(68) {fill: var(--poster-color);}
+              // &:nth-of-type(69) {fill: var(--poster-color);}
+              // &:nth-of-type(70) {fill: var(--poster-color);}
+              // &:nth-of-type(71) {fill: var(--poster-color);}
+              // &:nth-of-type(72) {}
+          }
+          &.state-1 {                
+              .circle {
+                  fill: var(--poster-color);
+              }
+          } 
+      }        
+  }
+}

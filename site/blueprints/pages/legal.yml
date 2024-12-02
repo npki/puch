@@ -1,0 +1,9 @@
+title: Legal
+
+tabs:
+  content:
+    fields:
+      text:
+        type: writer
+      
+  seotab: seo

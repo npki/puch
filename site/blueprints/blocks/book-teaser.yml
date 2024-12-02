@@ -1,0 +1,13 @@
+name: Book Teaser
+icon: book
+wysiwyg: true
+fields:  
+  text:
+    type: writer
+    label: Headline    
+  buttonLink: 
+    label: Link zum Buch
+    type: url 
+  buttonText:
+    label: Button Text
+    type: text   

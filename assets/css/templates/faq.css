@@ -1,0 +1,91 @@
+body {
+  background: #FFF;
+  color: #000;
+  min-height: 100vh;
+}
+
+main {
+  padding-top: 110px;
+  padding-bottom: 90px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+main .box {
+  display: none;
+}
+
+h1 {
+  font-size: var(--font-size-l);
+  line-height: 1;
+}
+
+.intro {
+  margin-bottom: 90px;
+}
+.intro:last-of-type {
+  margin-bottom: 110px;
+}
+.intro p {
+  font-size: var(--font-size-s);
+  line-height: 1;
+}
+.intro p a {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 20px;
+}
+section:last-of-type {
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: var(--font-size-s);
+  line-height: 1;
+}
+
+.question {
+  padding-right: 40px;
+  position: relative;
+}
+.question em, .question u {
+  text-decoration: underline;
+}
+.question:hover {
+  cursor: pointer;
+}
+.question p {
+  display: inline-block;
+}
+.question:after {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 4px;
+  content: "";
+  background: url(../../media/arrow-down.svg) no-repeat center center/26px;
+}
+
+.back {
+  font-size: var(--font-size-s);
+  margin-top: 90px;
+  display: inline-block;
+}
+.back:hover {
+  text-decoration: underline;
+}
+
+article.open .question em, article.open .question u {
+  color: var(--poster-color);
+}
+article.open .question:after {
+  background: url(../../media/arrow-up.svg) no-repeat center center/26px;
+}
+article.open .box {
+  display: block;
+  margin-top: 25px;
+}
+
+/*# sourceMappingURL=faq.css.map */

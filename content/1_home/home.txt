@@ -1,0 +1,206 @@
+Title: Home
+
+----
+
+Announcementtextheadline: unser lineup ist komplett!
+
+----
+
+Announcementtext: <p>Willkommen zum Puch Open Air 2024!<br>Wir feiern heuer 35 Jahre pure Musikleidenschaft – und ihr seid wieder herzlich eingeladen, Teil dieser Geschichte zu sein. Nachdem die Thursten Moore Group und zuletzt Mandy, Indiana ihre Shows auf dem Puch Open Air absagen mussten, sind wir völlig aus dem Häuschen, dass ganz kurzfristig The Notwist zusagen konnten! Bei einem Festival-Ticketpreis von nur 45€ (+ VVK-Gebühr / hier erhältlich) steht einem Tag, einer Nacht voller unvergesslicher musikalischer, sozialer und atmosphärischer Momente nichts im Wege. Die Bands und Künstler*innen sind nun alle bestätigt, erwartet nichts Geringeres als eine handverlesene Auswahl, die den Biohof zum Vibrieren bringen und Eure Augen leuchten lassen wird.</p>
+
+----
+
+Poster: - file://3D5Dl2jGIHW0XzAk
+
+----
+
+Slides:
+
+- 
+  image:
+    - file://oKXMrgMPcUGSsMnk
+- 
+  image:
+    - file://nZuFQya13OJM2WNL
+
+----
+
+Faqtextheadline: awareness
+
+----
+
+Faqtext: <p>Das Puch Open Air ist ein Ort, an dem gelebte Solidarität an erster Stelle steht und alle eine gute Zeit verbringen können. Wir dulden keine Form von Rassismus, Sexismus, Antisemitismus oder jede andere Form von Diskriminierung oder Belästigung. Gemeinsam schaffen wir einen Ort, in dem jede:r sich akzeptiert und respektiert fühlen kann – egal welche Geschlechts-Identität, Hautfarbe, Religion, ethnische Zugehörigkeit oder Fähigkeiten. Mit Kauf eines Tickets und Betreten des Festival-Geländes stimmst du diesem Code of Conduct zu. Jeder Verstoß gegen den Code of Conduct wird geahndet und führt ggf. zum Ausschluss vom Festival. Der Ticketpreis wird in diesem Fall nicht erstattet. Wir behalten uns die Aussprache eines Hausverbotes vor. Solltet Ihr in irgendeiner Form belästigt werden, oder Ihr beobachtet eine solche Situation, bitte wendet Euch umgehend an unser Personal an den Bars, der Bühne, am Einlass und an den Park-/Campingplätzen.</p>
+
+----
+
+Posterslider:
+
+- 
+  year: 1999
+  image:
+    - file://l6xr9sduCrhiLHK4
+- 
+  year: 2000
+  image:
+    - file://00tR7Y8vPvx08kxr
+- 
+  year: 2001
+  image:
+    - file://24sffBJ4A89Ps1of
+- 
+  year: 2002
+  image:
+    - file://YanT90aG0jkBNhuI
+- 
+  year: 2003
+  image:
+    - file://vZO6GlxRDwlNklFU
+- 
+  year: 2004
+  image:
+    - file://P6s7l7Im4g4vWTPi
+- 
+  year: 2005
+  image:
+    - file://w8rRoDaOeVWlpodN
+- 
+  year: 2006
+  image:
+    - file://bwhvB5Vfwyxl8QUt
+- 
+  year: 2007
+  image:
+    - file://lGkkI06vqnCx4UkX
+- 
+  year: 2008
+  image:
+    - file://00TYCjnFZW7bcuLE
+- 
+  year: 2009
+  image:
+    - file://Ze9eGIIPs8DXLOBp
+- 
+  year: 2010
+  image:
+    - file://nuj4df29nQ5gTjMs
+- 
+  year: 2011
+  image:
+    - file://T3gEL0vzsmafnpWw
+- 
+  year: 2012
+  image:
+    - file://8bihDMuCf6B492pY
+- 
+  year: 2013
+  image:
+    - file://00TYCjnFZW7bcuLE
+- 
+  year: 2014
+  image:
+    - file://r367D1di7MzDLO6u
+- 
+  year: 2015
+  image:
+    - file://d3TguiA9QEp8RDiy
+- 
+  year: 2016
+  image:
+    - file://NxRGw2hflzGrnwo9
+- 
+  year: 2017
+  image:
+    - file://sE1tpXkstNDR752V
+- 
+  year: 2018
+  image:
+    - file://QQBZryafFhjz3pHV
+- 
+  year: 2019
+  image:
+    - file://OJBabcTeh3FPivzQ
+- 
+  year: 2020
+  image:
+    - file://4YkWRYXL9PHPB30V
+- 
+  year: 2021
+  image:
+    - file://4YkWRYXL9PHPB30V
+- 
+  year: 2022
+  image:
+    - file://jXacBYOcizFXh8e2
+- 
+  year: 2023
+  image:
+    - file://zSDu2QrJDQ8blMoa
+- 
+  year: 2024
+  image:
+    - file://3D5Dl2jGIHW0XzAk
+
+----
+
+Postertextheadline: puch poster parade
+
+----
+
+Postertext: <p>Seit 1998 gestalten <a href="https://herburg-weiland.de/" target="_blank" title="Herburg Weiland">Herburg Weiland</a> für PUCH die Flyer und Plakate, die so über die Jahre hinweg zu begehrten Sammlerobjekten avancierten. Mittlerweile verschwinden sie jeden Sommer schneller wieder von den Eingangs- und Toilettentüren der Clubs und Kneipen in München als sie dort angebracht werden können.</p>
+
+----
+
+Images:
+
+- file://oKXMrgMPcUGSsMnk
+- file://nZuFQya13OJM2WNL
+- file://3D5Dl2jGIHW0XzAk
+
+----
+
+Posterarchive:
+
+- file://sE1tpXkstNDR752V
+- file://NxRGw2hflzGrnwo9
+- file://d3TguiA9QEp8RDiy
+- file://r367D1di7MzDLO6u
+- file://8bihDMuCf6B492pY
+- file://T3gEL0vzsmafnpWw
+- file://nuj4df29nQ5gTjMs
+- file://Ze9eGIIPs8DXLOBp
+- file://lGkkI06vqnCx4UkX
+- file://bwhvB5Vfwyxl8QUt
+- file://w8rRoDaOeVWlpodN
+- file://P6s7l7Im4g4vWTPi
+- file://vZO6GlxRDwlNklFU
+- file://YanT90aG0jkBNhuI
+- file://24sffBJ4A89Ps1of
+- file://00tR7Y8vPvx08kxr
+- file://l6xr9sduCrhiLHK4
+- file://zSDu2QrJDQ8blMoa
+- file://3D5Dl2jGIHW0XzAk
+- file://jXacBYOcizFXh8e2
+- file://OJBabcTeh3FPivzQ
+- file://4YkWRYXL9PHPB30V
+- file://QQBZryafFhjz3pHV
+- file://00TYCjnFZW7bcuLE
+
+----
+
+Narrativelabel: 
+
+----
+
+Street: 
+
+----
+
+City: 
+
+----
+
+Date: 2025-08-15 00:00:00
+
+----
+
+Uuid: EH4vGQH7E7kM5Qlo

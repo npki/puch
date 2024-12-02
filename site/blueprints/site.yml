@@ -1,0 +1,156 @@
+title: Site
+
+tabs:
+  content:
+    label: Start
+    icon: text
+    columns:
+      - width: 1/2
+        sections:
+          pages:
+            type: pages
+            create: false
+            template:
+              - home
+              - legal
+              - faq
+              - history
+
+      - width: 1/2
+        sections:
+          songs:
+            label: Mediathek
+            type: files
+            accept: audio/mpeg
+
+  playlist:
+    label: Widgets
+    icon: audio
+    columns:
+      - width: 3/3
+        sections: 
+          playlist:
+            type: fields
+            fields:
+              songlist:
+                type: structure
+                label: Playlist
+                fields:
+                  title:
+                    label: Song title
+                    type: text
+                  artist:
+                    label: Artist name
+                    type: text
+                  song: 
+                    label: Song
+                    type: files
+                    uploads: false
+
+      - width: 1/3
+        sections:
+          countdown:
+            type: fields
+            fields:
+              date:
+                type: date
+                label: Startdatum für Countdown
+
+          ical:
+            type: files
+            label: iCal Datei             
+            template: ical
+
+      - width: 1/3
+        sections:
+          ticketlink:
+            type: fields
+            fields:
+              ticketurl:
+                type: url
+                label: Ticket Link
+              notifyticketurl:
+                type: url
+                label: Notify for Ticket Link
+
+      - width: 1/3
+        sections: 
+          adresslist:
+            type: fields
+            fields:
+              adress:
+                type: structure
+                label: Adresse
+                fields:
+                  street:
+                    label: Straße
+                    type: text
+                  number:
+                    label: Hausnummer
+                    type: number
+                  plz: 
+                    label: Postleitzahl
+                    type: number
+                  city:
+                    label: Ort
+                    type: text        
+      - width: 1/3
+        sections: 
+          color:
+            type: fields
+            fields:
+              postercolor:
+                type: text
+                label: Highlight Farbe
+                placeholder: 'Hexwert eintragen z.B #F0F0F0'
+
+  lineup:
+    label: Lineup
+    icon: list-bullet
+    columns:
+      - width: 3/3
+        sections:
+          headline:
+            type: fields
+            fields:
+              lineupHeading:
+                label: Headline
+                type: text
+
+          artists:
+            type: fields
+            fields:
+              artistlist:
+                type: structure
+                label: Artists
+                fields:
+                  artist:
+                    label: Artist name
+                    type: text
+
+                  description:
+                    label: Description
+                    type: text
+
+                  links:
+                    label: Links
+                    type: structure
+                    fields:
+                      buttonText:
+                        type: text
+                        label: Button Text
+
+                      buttonUrl:
+                        type:url 
+                        label : Button URL 
+
+                  video :
+                     label : Video 
+                     type : url 
+
+                  image :
+                     label : Picture 
+                     type : files 
+                     max : 1 
+  
+  seotab : seo 

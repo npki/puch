@@ -1,0 +1,13 @@
+name: Sound
+icon: file-audio
+fields:
+  quote:
+    label: Zitat
+    type: writer  
+  subtitle:
+    label: Zitatgeber / Titel
+    type: text
+  audio:
+    label: Audiodatei
+    type: files
+    multiple: false

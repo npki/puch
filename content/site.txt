@@ -1,0 +1,312 @@
+Title: Puch Open Air
+
+----
+
+Songlist:
+
+- 
+  title: Gargoyles
+  artist: '2nichtgut & taugenixx'
+  song:
+    - file://s0RuLG68I01kjBez
+- 
+  title: TNT Freestyle
+  artist: '2nichtgut & taugenixx'
+  song:
+    - file://cQIgX9o6fVpcJfU0
+
+----
+
+Date: 2025-06-20
+
+----
+
+Ticketurl: https://www.reservix.de/tickets-puch-open-air/bad99332c-ba90-4065-b162-ee46047e28a9
+
+----
+
+Notifyticketurl: 
+
+----
+
+Adress:
+
+- 
+  street: Biohof
+  number: 1
+  plz: 80354
+  city: Jetzendorf
+
+----
+
+Postercolor: #F0F0F0
+
+----
+
+Lineupheading: lineup 2024
+
+----
+
+Artistlist:
+
+- 
+  artist: Salò
+  description: >
+    Musik für Hundestreichler,
+    Arbeitsverweigerer und alle, die sonst
+    noch Gefühle haben“, so beschreibt
+    Andreas Binder selbst seine Songs.
+    Inspiriert von Punk und New Wave,
+    gepaart mit hintersinnigem Humor und
+    einem Gefühl für Pop hat es der
+    Österreicher, der zwischen Wien und
+    Graz pendelt, es von den kleinen Clubs
+    auf die großen Bühnen geschafft. Songs
+    wie „Appolonia sitzt bei Edeka an der
+    Kasse“ und „Ich glaube nicht an
+    Dinosaurier“ bohren sich in die
+    Gehörgänge und lassen sich nicht so
+    einfach wieder loswerden. Nach der
+    Veröffentlichung der EP “Rabatt” im
+    Jahr 2019 und des Debütalbums
+    “Subjektiv Betrachtet” im Jahr 2023
+    wird es 2024 neue Musik von SALÒ geben
+    und so können wir uns beim Puch Open
+    Air vielleicht schon auf ein paar neue
+    Ohrwürmer freuen.
+  links:
+    - 
+      buttontext: bandcamp
+      buttons: https://salosalosalo.bandcamp.com/
+    - 
+      buttontext: website
+      buttons: https://salosalosalo.bandcamp.com/
+    - 
+      buttontext: youtube
+  video: >
+    https://www.youtube.com/embed/0I7T9FuciBQ?si=xSbmCQtTHTLuG7Jn
+  image:
+    - file://L6nbb97DUpW6W1UB
+  title: null
+  song: [ ]
+- 
+  artist: The Notwist
+  description: 'The Notwist gehören seit ihrem Auftritt 1991 zu einer festen Größe beim PUCH OPEN AIR und zuletzt beehrten sie uns 2018. Mit ihrem letzten Album „Vertigo Days“ gaben sie auch in unsicheren Zeiten 2021 ihren Fans Halt und öffneten als Gegentrend zum Cocooning ihre Türen ganz weit und luden internationale Gäste wie Ben LaMar Gay, Juana Molina und Saya Ueno von den japanischen Tenniscoats ein, die Songs und ihren Klangkosmos zu bereichern.</p><p>Von ihren Anfängen 1989 in Weilheim mit Wurzeln im Hardcore und Noise bis zu ihren Exkursionen in Jazz und Elektronik gehören Notwist zu den wandelbarsten und zugleich beständigsten Bands. Schon ihr Debüt „The Notwist“ ließ aufhorchen und bereits auf dem Zweitling „Nook“ findet sich bei Songs wie „The Incredible Change of Our Alien“ dieses feine Gespür für die Balance zwischen Melodie und Härte, Stille und Sturm.'
+  links:
+    - 
+      buttontext: bandcamp
+      buttons: https://salosalosalo.bandcamp.com/
+    - 
+      buttontext: website
+      buttons: https://salosalosalo.bandcamp.com/
+    - 
+      buttontext: youtube
+  video: >
+    https://www.youtube.com/embed/aJEyR0C5Aok?si=_X0W0pv6xVTLSknY
+  image:
+    - file://ePOM35pucIqpLvAH
+  title: null
+  song: [ ]
+- 
+  artist: Acid Pauli
+  description: 'Ob vor einem antiken Tempel in Armenien, auf dem Dachstein, in der Salzwüste des Burning Man Festivals oder regelmäßig auf der Fusion: Acid Pauli hat schon die verrücktesten Orte mit seinen DJ-Sets beschallt. Um so mehr freuen wir uns Ihn endlich beim Puch Open Air begrüßen zu dürfen. Seine Auftritte, die sich hybrid zwischen Live und DJ-Set bewegen, leben von ihrer positiven Energie, der ungeheuren musikalischen Bandbreite und Martins wunderbarem Humor, der seine Sets so unverwechselbar und einmalig macht.'
+  links: [ ]
+  video: >
+    https://www.youtube.com/embed/EfZu4BCi644?si=Z3mydzIOo6OR5dbt
+  image:
+    - file://kdzLdVBqTpgXfqpR
+- 
+  artist: Kratzen
+  description: >
+    „Wir gehen auf eine Reise, wir haben
+    kein Gepäck, wir werden hängen
+    bleiben, auf einem irren Trip“ Eine
+    Zeile vom KRATZEN – Song „Reise“,
+    vorgetragen von Sänger Thomas Mersch im
+    besten Blumfeld-Style, könnte das Motto
+    des diesjährigen Puch Open Airs sein.
+    Das 2017 in Köln gegründete Trio
+    verbindet die Motorik des Krautrock mit
+    der Minimalität des New Wave. Melodien
+    mäandern in Endlosschleife durch den
+    Kopf und ziehen den Hörer
+    unwillkürlich in ihren Bann. Stücke
+    wie „Glauben“ und „Die Nacht“
+    erinnern sofort an die Düsseldorfer
+    Krautrock-Legenden Neu!, aber auch Fans
+    von Velvet Underground werden bei
+    Kratzen und ihren beiden Longplayern
+    sofort aufhorchen.
+  links: [ ]
+  video: >
+    https://www.youtube.com/embed/1ZipOII9org?si=4tU9nbplgSnHX83u
+  image:
+    - file://hViRX8RSgPFmydsh
+- 
+  artist: Ulla Suspekt
+  description: >
+    Wenn Bassistin Ulla Müller nicht als
+    Teil des Duos Taxi Lotta mit LIAEN
+    80s-inspirierten Dreampop produziert,
+    steht sie als ULLA SUSPEKT auf der
+    Bühne. Angeregt von New
+    Wave-Vertreterinnen wie Laurie Anderson
+    oder Gudrun Gut und deren Band Malaria!
+    geht sie eigene Wege. Im vergangenen
+    Jahr erschien ihre Debut-EP „U“ mit
+    fünf Songs, die ihre Wut mit einem
+    guten Sinn für Humor, zeitgemäßen
+    Trap-Vibes, tanzbaren Baslines und
+    dreckigen 80s-Synthies vereinen. Songs
+    wie „Zahn“ oder „Peter The Woman
+    Beater“ sprechen dabei eine deutliche
+    Sprache.
+  links: [ ]
+  video: >
+    https://www.youtube.com/embed/V3fGuz5cIP8?si=XGRRYRTnAIBVuCmq
+  image:
+    - file://XQwS698IaFihsBCv
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Link: https://puch-openair.de/ticketshop/
+
+----
+
+Heading: lineup 2024
+
+----
+
+Headline: Lineup 2024
+
+----
+
+Activate: - 'yes'

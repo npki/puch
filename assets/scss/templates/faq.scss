@@ -1,0 +1,33 @@
+body {background: #FFF;color: #000;min-height: 100vh;}
+main {padding-top: 110px;padding-bottom: 90px;padding-left: 15px;padding-right: 15px;
+  .box {display: none;}
+}
+h1 {font-size: var(--font-size-l);line-height: 1;}
+.intro {margin-bottom: 90px;
+  &:last-of-type {margin-bottom: 110px;}
+  p {font-size: var(--font-size-s);line-height: 1;
+    a {text-decoration: underline;}
+  }
+}
+section {margin-bottom: 20px;
+  &:last-of-type {margin-bottom: 0;}
+}
+h2 {font-size: var(--font-size-s);line-height: 1;}
+.question {padding-right: 40px;position: relative;
+  em, u {text-decoration: underline;}
+  &:hover {cursor: pointer;}
+  p {display: inline-block;}
+  &:after {display: inline-block;width: 40px;height: 40px;position: relative;top: 4px;content: '';background: url(../../media/arrow-down.svg) no-repeat center center/26px;}
+}
+.back {font-size: var(--font-size-s); margin-top: 90px;display: inline-block;
+  &:hover {text-decoration: underline;}
+}
+article {
+  &.open {
+    .question {
+      em, u {color: var(--poster-color);}
+      &:after {background: url(../../media/arrow-up.svg) no-repeat center center/26px;}
+    }
+    .box {display: block;margin-top: 25px;}
+  }
+}

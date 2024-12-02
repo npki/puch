@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fill 1</title>
+    <g id="Slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="START-V3" transform="translate(-71, -2284)" fill="#FFFFFF">
+            <g id="Slider-/-2" transform="translate(15, 1766)">
+                <g id="Group-10" transform="translate(39, 502)">
+                    <path d="M29.3589444,23 L29.3589444,27.4912281 L41.0977849,27.4281823 C42.7546153,27.419284 44.1049552,28.7551969 44.1138535,30.4120272 C44.1181566,31.2132454 43.8017786,31.9828932 43.235226,32.5494505 L24,51.7848374 L24,51.7848374 L27.2661807,55 L46.4504241,35.8159175 C47.6220019,34.6443495 49.5214968,34.6443575 50.6930648,35.8159352 C51.2596095,36.3824847 51.5759869,37.1521193 51.5716924,37.9533264 L51.5087719,49.6922778 L51.5087719,49.6922778 L56.0002041,49.6922778 L56.0002041,23 L29.3589444,23 Z" id="Fill-1" transform="translate(40.0001, 39) rotate(-135) translate(-40.0001, -39)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
